@@ -1,0 +1,8 @@
+[package]
+name = "udim-texture-renamer"
+version = "0.1.0"
+authors = ["Valerio Viperino <10340139+vvzen@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33"
